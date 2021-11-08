@@ -26,4 +26,4 @@ The analysis of the election show that:
 
 # AND THE WINNER IS
 
-Diana DeGette: 73.8% (272,892)
+## Diana DeGette: 73.8% (272,892)
