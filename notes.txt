@@ -1,0 +1,10 @@
+Arapahoe","Denver","Jefferson"
+
+for i in range(len(counties)):
+    print(counties[i])
+
+Range iteratioon over dict list 
+
+for i in range(len(voting_data)):
+
+      print(voting_data[i])
